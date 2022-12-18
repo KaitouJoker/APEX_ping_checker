@@ -15,3 +15,5 @@ excel 파일 출처
 https://docs.google.com/spreadsheets/d/1dPCNm8eXbTL7Ob5o8-8bPHZudd8e7QfO75faM1W1dTQ/edit#gid=0
 
 ![엑셀 저장 방법](https://user-images.githubusercontent.com/35037436/208316652-486987df-37ec-40a1-adb7-965acfeed5a4.png)
+
+[Download](https://github.com/KaitouJoker/APEX_ping_checker/releases/tag/v2.1)
